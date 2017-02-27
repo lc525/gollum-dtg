@@ -4,3 +4,6 @@ pkg
 .bundle
 *.gem
 *.swp
+lib/gollum/frontend/*.json
+vendor
+lib/gollum/frontend/app.log
